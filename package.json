@@ -1,0 +1,24 @@
+{
+  "name": "katana",
+  "version": "0.0.0",
+  "description": "Tool for data extraction and visualization.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:fth-ship/katana.git"
+  },
+  "keywords": [
+    "data",
+    "extraction",
+    "visualization"
+  ],
+  "author": "Kaique da Silva <kaique.developer@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/fth-ship/katana/issues"
+  },
+  "homepage": "https://github.com/fth-ship/katana"
+}
